@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/laravel-support/tests" />
+        <option value="$PROJECT_DIR$/tmp-watson-validating/tests" />
+        <option value="$PROJECT_DIR$/laravel-subscriptions/tests" />
+        <option value="$PROJECT_DIR$/tmp-watson-validating/tests" />
+        <option value="$PROJECT_DIR$/laravel-support/tests" />
+        <option value="$PROJECT_DIR$/tmp-miladtech-validating/tests" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/laravel-subscriptions/src" isTestSource="false" packagePrefix="MiladTech\Subscriptions\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-subscriptions/tests" isTestSource="true" packagePrefix="MiladTech\Subscriptions\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-subscriptions/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-support/src" isTestSource="false" packagePrefix="MiladTech\Support\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-support/tests" isTestSource="true" packagePrefix="MiladTech\Support\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/laravel-support/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tmp-miladtech-validating/src" isTestSource="false" packagePrefix="MiladTech\Validating\" />
+      <sourceFolder url="file://$MODULE_DIR$/tmp-miladtech-validating/tests" isTestSource="true" packagePrefix="MiladTech\Validating\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/tmp-miladtech-validating/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tmp-watson-validating/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
